@@ -1,0 +1,6 @@
+artifact_location: file:///kaggle/working/mlruns/965737176787737158
+creation_time: 1753730112523
+experiment_id: '965737176787737158'
+last_update_time: 1753730112523
+lifecycle_stage: active
+name: tuned-pure-ml-models

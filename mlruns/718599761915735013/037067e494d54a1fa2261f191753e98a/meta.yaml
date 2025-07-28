@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/718599761915735013/037067e494d54a1fa2261f191753e98a/artifacts
+end_time: 1753730487215
+entry_point_name: ''
+experiment_id: '718599761915735013'
+lifecycle_stage: active
+run_id: 037067e494d54a1fa2261f191753e98a
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730483399
+status: 3
+tags: []
+user_id: root

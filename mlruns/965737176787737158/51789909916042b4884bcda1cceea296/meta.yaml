@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/965737176787737158/51789909916042b4884bcda1cceea296/artifacts
+end_time: 1753730430269
+entry_point_name: ''
+experiment_id: '965737176787737158'
+lifecycle_stage: active
+run_id: 51789909916042b4884bcda1cceea296
+run_name: Naive Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730426845
+status: 3
+tags: []
+user_id: root

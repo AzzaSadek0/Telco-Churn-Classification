@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/965737176787737158/711637b4d7c944ac96c57f34d164affb/artifacts
+end_time: 1753730425570
+entry_point_name: ''
+experiment_id: '965737176787737158'
+lifecycle_stage: active
+run_id: 711637b4d7c944ac96c57f34d164affb
+run_name: AdaBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730421967
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/115208815854621400/cfffb1c119b8460cb1a99cc455baa49e/artifacts
+end_time: 1753731792698
+entry_point_name: ''
+experiment_id: '115208815854621400'
+lifecycle_stage: active
+run_id: cfffb1c119b8460cb1a99cc455baa49e
+run_name: VotingClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753731788365
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,6 @@
+artifact_location: file:///kaggle/working/mlruns/718599761915735013
+creation_time: 1753730440169
+experiment_id: '718599761915735013'
+last_update_time: 1753730440169
+lifecycle_stage: active
+name: tuned-pure-ml-models-smoteenn

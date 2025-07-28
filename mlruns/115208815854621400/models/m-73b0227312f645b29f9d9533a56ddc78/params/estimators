@@ -1,0 +1,4 @@
+[('nb', GaussianNB()), ('ada', AdaBoostClassifier(learning_rate=0.28587237664368714, n_estimators=107,
+                   random_state=42)), ('svm', SVC(C=4.730871681942921, class_weight='balanced', probability=True,
+    random_state=42)), ('lr', LogisticRegression(C=0.4030592884477322, class_weight='balanced',
+                   random_state=42, solver='liblinear'))]

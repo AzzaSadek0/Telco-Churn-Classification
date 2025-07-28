@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/ce81389028ce42a8a4af7eaaeed188ad/artifacts
+end_time: 1753730092811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce81389028ce42a8a4af7eaaeed188ad
+run_name: GaussianNB
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730089351
+status: 3
+tags: []
+user_id: root

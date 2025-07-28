@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/6e1b903435e34ccda5acf1ccf373c53c/artifacts
+end_time: 1753730066011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e1b903435e34ccda5acf1ccf373c53c
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730062156
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/414a52483a624b39a85a9275c773e52f/artifacts
+end_time: 1753730112483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 414a52483a624b39a85a9275c773e52f
+run_name: CatBoostClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730108127
+status: 3
+tags: []
+user_id: root

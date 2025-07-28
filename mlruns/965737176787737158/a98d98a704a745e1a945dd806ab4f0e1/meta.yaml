@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/965737176787737158/a98d98a704a745e1a945dd806ab4f0e1/artifacts
+end_time: 1753730169975
+entry_point_name: ''
+experiment_id: '965737176787737158'
+lifecycle_stage: active
+run_id: a98d98a704a745e1a945dd806ab4f0e1
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730166454
+status: 3
+tags: []
+user_id: root

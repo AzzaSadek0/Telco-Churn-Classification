@@ -1,0 +1,2 @@
+SVC(C=4.730871681942921, class_weight='balanced', probability=True,
+    random_state=42)

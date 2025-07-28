@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/ee394b431008430883d74484032fda6d/artifacts
+end_time: 1753730081795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee394b431008430883d74484032fda6d
+run_name: SVC
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730078261
+status: 3
+tags: []
+user_id: root

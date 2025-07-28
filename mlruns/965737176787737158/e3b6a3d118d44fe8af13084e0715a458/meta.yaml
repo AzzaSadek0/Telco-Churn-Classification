@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/965737176787737158/e3b6a3d118d44fe8af13084e0715a458/artifacts
+end_time: 1753730397208
+entry_point_name: ''
+experiment_id: '965737176787737158'
+lifecycle_stage: active
+run_id: e3b6a3d118d44fe8af13084e0715a458
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730393471
+status: 3
+tags: []
+user_id: root

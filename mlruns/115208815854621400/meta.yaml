@@ -1,0 +1,6 @@
+artifact_location: file:///kaggle/working/mlruns/115208815854621400
+creation_time: 1753730712897
+experiment_id: '115208815854621400'
+last_update_time: 1753730712897
+lifecycle_stage: active
+name: Voting-Classifier-model

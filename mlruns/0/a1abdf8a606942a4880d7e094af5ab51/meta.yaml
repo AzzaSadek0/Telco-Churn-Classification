@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/a1abdf8a606942a4880d7e094af5ab51/artifacts
+end_time: 1753730085703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1abdf8a606942a4880d7e094af5ab51
+run_name: AdaBoostClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730082104
+status: 3
+tags: []
+user_id: root

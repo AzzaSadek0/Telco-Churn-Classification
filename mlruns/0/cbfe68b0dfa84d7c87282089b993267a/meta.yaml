@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/cbfe68b0dfa84d7c87282089b993267a/artifacts
+end_time: 1753730069825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbfe68b0dfa84d7c87282089b993267a
+run_name: DecisionTreeClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730066063
+status: 3
+tags: []
+user_id: root

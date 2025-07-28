@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/718599761915735013/16cad6f38cbf452f96de058a1e24eeb8/artifacts
+end_time: 1753730527165
+entry_point_name: ''
+experiment_id: '718599761915735013'
+lifecycle_stage: active
+run_id: 16cad6f38cbf452f96de058a1e24eeb8
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730523381
+status: 3
+tags: []
+user_id: root

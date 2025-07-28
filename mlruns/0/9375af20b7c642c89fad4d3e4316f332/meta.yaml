@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/9375af20b7c642c89fad4d3e4316f332/artifacts
+end_time: 1753730056827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9375af20b7c642c89fad4d3e4316f332
+run_name: KNeighborsClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730053203
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/aeaab3e3a86c4830b483bf3aaa66240b/artifacts
+end_time: 1753730061429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeaab3e3a86c4830b483bf3aaa66240b
+run_name: GradientBoostingClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753730057603
+status: 3
+tags: []
+user_id: root

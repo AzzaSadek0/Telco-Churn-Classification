@@ -1,0 +1,10 @@
+artifact_location: file:///kaggle/working/mlruns/0/models/m-04ec931453ec41839c8822ee41e9503d/artifacts
+creation_timestamp: 1753730098053
+experiment_id: '0'
+last_updated_timestamp: 1753730104106
+model_id: m-04ec931453ec41839c8822ee41e9503d
+model_type: null
+name: model
+source_run_id: 28dedc3f3fd14dcbb98a046939095a99
+status: 2
+status_message: null
