@@ -120,6 +120,25 @@ To view the experiment tracking and model performance metrics:
 | Model Interpretability | `LIME`                                            |
 | Persistence            | `joblib`                                          |
 
+## Contributors
+
+### 🌐 Streamlit Application Development
+- **Abdullah** - Streamlit Implementation & Application Architecture
+- **Azza** - Streamlit UI/UX Design and Implementation
+
+### 🤖 Machine Learning Models
+- **Abdullah** - Model Architecture and Optimization
+- **Kenzzy** - Model Training and Validation
+- **Asmaa** - Model Training and Validation
+
+### 💻 Source Code Development
+- **Abdullah** - Core Source Code Development
+- **Omar** - Code Architecture and Implementation
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Important Disclaimer
 
 **This application is designed for educational and demonstration purposes only.**
