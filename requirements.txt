@@ -1,6 +1,10 @@
-numpy
-pandas
-nltk
-scikit-learn
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
 joblib
+lime
+plotly
+kaleido
