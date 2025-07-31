@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction System
 
-A comprehensive machine learning-powered web application that predicts customer churn using both sentiment analysis from customer feedback and structured telco customer profile data. Built with Streamlit for an interactive user experience ,[deepwiki doc])(https://deepwiki.com/abdullahfayed6/Telco-Churn-Classification).
+A comprehensive machine learning-powered web application that predicts customer churn using both sentiment analysis from customer feedback and structured telco customer profile data. Built with Streamlit for an interactive user experience ,[deepwiki doc](https://deepwiki.com/abdullahfayed6/Telco-Churn-Classification).
 
 ## Features
 
